@@ -30,7 +30,7 @@ Video va audio fayllarni **watermark (belgi)**siz yuklab oling, foydalanuvchilar
 
 ## 🧪 Namoyish Video
 
-📽️ **[Demo](info_video/info_video.gif)**  
+📽️ **[Demo vidoeni bu yerdan tomocha qilishingiz mumkin!](info_video/info_video.gif)**  
 
 ---
 
@@ -55,7 +55,7 @@ Video va audio fayllarni **watermark (belgi)**siz yuklab oling, foydalanuvchilar
 ## 📦 Ishga Tushurish
 
 ```bash
-git clone https://github.com/yourusername/tiktok-downloader-bot
+git clone https://github.com/SafarovSardorDev/tiktok-downloader-bot
 cd tiktok-downloader-bot
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
