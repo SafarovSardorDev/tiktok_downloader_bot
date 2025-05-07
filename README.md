@@ -66,7 +66,7 @@ python bot.py
 👨‍💻 Muallif:
 Telegram: [@imsafarov](https://t.me/imsafarov)
 
-###📜 Litsenziya
+### 📜 Litsenziya
 This project is licensed under the MIT License - see the LICENSE file for details. 📝
 
 Copyright (c) 2025 Sardor
